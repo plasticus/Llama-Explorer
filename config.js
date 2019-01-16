@@ -9,7 +9,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "dego": [
-	["dego.llama.horse", "http://pool.llama.horse:42066"],
+	["dego.llama.horse", "https://pool.llama.horse:42065"],
 	["'dyngepeng.zapto.org:85/DEGO/'", "http://dyngepeng.zapto.org:8118"],
 	["'dyngepeng.zapto.org:85/DEROGOLD/'", "http://dyngepeng.zapto.org:8117"],
 	["dego.c3pool.com","https://dego.c3pool.com/api/"]
